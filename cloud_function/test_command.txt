@@ -1,0 +1,5 @@
+curl -m 70 -X POST https://northamerica-northeast1-[project_id].cloudfunctions.net/[cloud_function_name] \
+-H "Content-Type: application/json" \
+-d '{
+  "prompt": "What is the most popular meal in mcdonald?"
+}'
