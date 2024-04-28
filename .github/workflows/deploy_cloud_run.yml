@@ -17,6 +17,7 @@ jobs:
       REPOSITORY: food-repo    # edit here
       SERVICE_ACCOUNT: food-service@foodguardians.iam.gserviceaccount.com   # edit here
       SERVICE_NAME: food-service         # edit here
+      
       # REGION: MY_REGION                     # edit here
       # PROJECT_ID: MY_PROJECT_ID             # edit here
       # REPOSITORY: MY_ARTIFACT_REPOSITORY    # edit here
